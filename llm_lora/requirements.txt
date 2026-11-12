@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+peft
+accelerate
+sentencepiece
+numpy
+scikit-learn
+tqdm
+matplotlib
+pyyaml
+jupyterlab
+ipykernel

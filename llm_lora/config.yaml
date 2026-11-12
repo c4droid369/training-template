@@ -1,0 +1,12 @@
+seed: 42
+device: auto
+model_name: sshleifer/tiny-gpt2
+max_length: 64
+batch_size: 2
+epochs: 1
+lr: 0.0002
+weight_decay: 0.01
+lora_r: 8
+lora_alpha: 16
+lora_dropout: 0.05
+output_dir: outputs
